@@ -4,8 +4,8 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- Estou trabalhando na **Sonner Sistemas de Informática**
- <br/> :computer: &nbsp; Minha stack: Ionic, Angular.Js, Typescript & Java.
+ Estou trabalhando na **Laudo Laboratórios**
+ <br/> :computer: &nbsp; Minha stack: Ionic, Angular.Js, Typescript, Java & GO.
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologia, gosto de jogar videogame com meu filho e praticar atividades físicas.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-sauloLauers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saulo-lauers-917114192/)](https://www.linkedin.com/in/saulo-lauers-917114192//) 
 | 
